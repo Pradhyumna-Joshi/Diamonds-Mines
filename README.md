@@ -1,1 +1,1 @@
-Diamonds💎 & Mines💣: The Treasure Hunt is a simple yet addictive game of luck, logic, and strategy. The goal is straightforward: collect all the hidden diamonds while avoiding dangerous hidden mines. Each game board is randomly generated, making every playthrough unique and unpredictable.
+Diamonds💎 & Mines💣: The Treasure Hunt is a simple yet addictive game of luck. The goal is straightforward: collect all the hidden diamonds while avoiding dangerous hidden mines. Each game board is randomly generated, making every playthrough unique and unpredictable.
